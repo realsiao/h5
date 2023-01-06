@@ -1,0 +1,16 @@
+p{
+	color: tomato;
+	font-size:20px;
+}
+
+#green {
+	color:green;
+}
+
+.blue {
+	color:blue;
+}
+
+div.blue{
+	font-size:20px;
+}
